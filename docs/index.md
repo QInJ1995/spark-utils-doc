@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "spark-utils"
-  text: "A VitePress Site"
+  text: "spark-utils"
   tagline: My great project tagline
   actions:
     - theme: brand

@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "spark-utils-doc",
   title: "spark-utils",
-  base: 'spark-utils-doc',
-  description: "A VitePress Site",
+  description: "spark-utils",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
