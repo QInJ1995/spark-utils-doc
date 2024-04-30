@@ -7,7 +7,7 @@ hero:
   text: "一个强大、丰富、可扩展的JavaScript工具库"
   tagline: 提高 你的开发效率，让代码更优雅、更简洁
   image:
-    src: ./image/logo.png
+    src: /image/logo.png
     alt: spark-utils
   actions:
     - theme: brand
