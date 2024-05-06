@@ -34,7 +34,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024-present QINJIN'
+      copyright: 'Copyright © 2024-present 秦佬湿'
     },
     outline: {
       label: '页面导航'
