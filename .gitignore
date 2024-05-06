@@ -6,3 +6,5 @@ cache
 .temp
 .history
 *.local
+docs/.vitepress/cache
+docs/.vitepress/dist
