@@ -25,11 +25,20 @@ export default defineConfig({
           { text: 'Function', link: '/markdown/function' },
           { text: '日期处理', link: '/markdown/date' },
           { text: '数据处理', link: '/markdown/number' },
+          { text: '字符串处理', link: '/markdown/string' },
+          { text: '网络请求', link: '/markdown/https' },
+          { text: '浏览器工具', link: '/markdown/browser' },
+          { text: '全局配置', link: '/markdown/global' },
+          { text: 'WebStorage工具', link: '/markdown/storage' },
+          { text: 'Cookie操作', link: '/markdown/cookie' },
+          { text: 'DOM元素信息', link: '/markdown/dom' },
+          { text: '加密工具', link: '/markdown/crypto' },
+          { text: '其他方法', link: '/markdown/other' },
         ]
       }
     ],
     socialLinks: [
-      // { icon: 'github', link: 'https://github.com/QInJ1995' },
+      { icon: 'github', link: 'https://github.com/QInJ1995' },
       { icon: 'npm', link: 'https://www.npmjs.com/package/spark-utils' }
     ],
     footer: {
