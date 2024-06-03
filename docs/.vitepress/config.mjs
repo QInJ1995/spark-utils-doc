@@ -38,7 +38,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/QInJ1995' },
+      { icon: 'github', link: 'https://github.com/QInJ1995/spark-utils' },
       { icon: 'npm', link: 'https://www.npmjs.com/package/spark-utils' }
     ],
     footer: {
